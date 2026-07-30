@@ -1,0 +1,36 @@
+track_number,track_name,system,audio_type,public_url,expected_content_type
+1,The Districts - Vermont,Reference,input,https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/01-the-districts-vermont/input-preview.mp3,audio/mpeg
+1,The Districts - Vermont,Fadr,vocals,https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/01-the-districts-vermont/fadr-vocals-preview.mp3,audio/mpeg
+1,The Districts - Vermont,Fadr,instrumental,https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/01-the-districts-vermont/fadr-instrumental-preview.mp3,audio/mpeg
+1,The Districts - Vermont,Moises,vocals,https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/01-the-districts-vermont/moises-vocals-preview.mp3,audio/mpeg
+1,The Districts - Vermont,Moises,instrumental,https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/01-the-districts-vermont/moises-instrumental-preview.mp3,audio/mpeg
+1,The Districts - Vermont,NeuralSound,vocals,https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/01-the-districts-vermont/neuralsound-vocals-preview.mp3,audio/mpeg
+1,The Districts - Vermont,NeuralSound,instrumental,https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/01-the-districts-vermont/neuralsound-instrumental-preview.mp3,audio/mpeg
+2,The Long Wait - Back Home To Blue,Reference,input,https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/02-the-long-wait-back-home-to-blue/input-preview.mp3,audio/mpeg
+2,The Long Wait - Back Home To Blue,Fadr,vocals,https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/02-the-long-wait-back-home-to-blue/fadr-vocals-preview.mp3,audio/mpeg
+2,The Long Wait - Back Home To Blue,Fadr,instrumental,https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/02-the-long-wait-back-home-to-blue/fadr-instrumental-preview.mp3,audio/mpeg
+2,The Long Wait - Back Home To Blue,Moises,vocals,https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/02-the-long-wait-back-home-to-blue/moises-vocals-preview.mp3,audio/mpeg
+2,The Long Wait - Back Home To Blue,Moises,instrumental,https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/02-the-long-wait-back-home-to-blue/moises-instrumental-preview.mp3,audio/mpeg
+2,The Long Wait - Back Home To Blue,NeuralSound,vocals,https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/02-the-long-wait-back-home-to-blue/neuralsound-vocals-preview.mp3,audio/mpeg
+2,The Long Wait - Back Home To Blue,NeuralSound,instrumental,https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/02-the-long-wait-back-home-to-blue/neuralsound-instrumental-preview.mp3,audio/mpeg
+3,The Scarlet Brand - Les Fleurs Du Mal,Reference,input,https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/03-the-scarlet-brand-les-fleurs-du-mal/input-preview.mp3,audio/mpeg
+3,The Scarlet Brand - Les Fleurs Du Mal,Fadr,vocals,https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/03-the-scarlet-brand-les-fleurs-du-mal/fadr-vocals-preview.mp3,audio/mpeg
+3,The Scarlet Brand - Les Fleurs Du Mal,Fadr,instrumental,https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/03-the-scarlet-brand-les-fleurs-du-mal/fadr-instrumental-preview.mp3,audio/mpeg
+3,The Scarlet Brand - Les Fleurs Du Mal,Moises,vocals,https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/03-the-scarlet-brand-les-fleurs-du-mal/moises-vocals-preview.mp3,audio/mpeg
+3,The Scarlet Brand - Les Fleurs Du Mal,Moises,instrumental,https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/03-the-scarlet-brand-les-fleurs-du-mal/moises-instrumental-preview.mp3,audio/mpeg
+3,The Scarlet Brand - Les Fleurs Du Mal,NeuralSound,vocals,https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/03-the-scarlet-brand-les-fleurs-du-mal/neuralsound-vocals-preview.mp3,audio/mpeg
+3,The Scarlet Brand - Les Fleurs Du Mal,NeuralSound,instrumental,https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/03-the-scarlet-brand-les-fleurs-du-mal/neuralsound-instrumental-preview.mp3,audio/mpeg
+4,The So So Glos - Emergency,Reference,input,https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/04-the-so-so-glos-emergency/input-preview.mp3,audio/mpeg
+4,The So So Glos - Emergency,Fadr,vocals,https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/04-the-so-so-glos-emergency/fadr-vocals-preview.mp3,audio/mpeg
+4,The So So Glos - Emergency,Fadr,instrumental,https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/04-the-so-so-glos-emergency/fadr-instrumental-preview.mp3,audio/mpeg
+4,The So So Glos - Emergency,Moises,vocals,https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/04-the-so-so-glos-emergency/moises-vocals-preview.mp3,audio/mpeg
+4,The So So Glos - Emergency,Moises,instrumental,https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/04-the-so-so-glos-emergency/moises-instrumental-preview.mp3,audio/mpeg
+4,The So So Glos - Emergency,NeuralSound,vocals,https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/04-the-so-so-glos-emergency/neuralsound-vocals-preview.mp3,audio/mpeg
+4,The So So Glos - Emergency,NeuralSound,instrumental,https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/04-the-so-so-glos-emergency/neuralsound-instrumental-preview.mp3,audio/mpeg
+5,The Wrong'Uns - Rothko,Reference,input,https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/05-the-wronguns-rothko/input-preview.mp3,audio/mpeg
+5,The Wrong'Uns - Rothko,Fadr,vocals,https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/05-the-wronguns-rothko/fadr-vocals-preview.mp3,audio/mpeg
+5,The Wrong'Uns - Rothko,Fadr,instrumental,https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/05-the-wronguns-rothko/fadr-instrumental-preview.mp3,audio/mpeg
+5,The Wrong'Uns - Rothko,Moises,vocals,https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/05-the-wronguns-rothko/moises-vocals-preview.mp3,audio/mpeg
+5,The Wrong'Uns - Rothko,Moises,instrumental,https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/05-the-wronguns-rothko/moises-instrumental-preview.mp3,audio/mpeg
+5,The Wrong'Uns - Rothko,NeuralSound,vocals,https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/05-the-wronguns-rothko/neuralsound-vocals-preview.mp3,audio/mpeg
+5,The Wrong'Uns - Rothko,NeuralSound,instrumental,https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/05-the-wronguns-rothko/neuralsound-instrumental-preview.mp3,audio/mpeg
