@@ -1,14 +1,3 @@
-<!--
-GITHUB PAGES SETUP
-Expected organization: neuralsound
-Expected repository: ai-vocal-remover-benchmark-2026
-Published benchmark: https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/
-
-If your organization or repository name is different, replace every occurrence of:
-https://neuralsound.github.io/ai-vocal-remover-benchmark-2026
-with your real GitHub Pages project URL.
--->
-
 <div align="center">
 
 <a href="https://play.google.com/store/apps/details?id=com.neuralsound.musicseparation"><img alt="Download NeuralSound for Android on Google Play" src="https://img.shields.io/badge/Android-Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white"></a>
@@ -24,8 +13,6 @@ with your real GitHub Pages project URL.
 [![Overall SI-SDR](https://img.shields.io/badge/NeuralSound%20overall%20SI--SDR-15.80%20dB-16a34a)](#benchmark-results)
 [![Displayed metric wins](https://img.shields.io/badge/displayed%20metric%20wins-30%20of%2030-7c3aed)](#benchmark-results)
 [![Songs tested](https://img.shields.io/badge/songs%20tested-5-334155)](#play-and-download-every-audio-result)
-
-### [▶ Open the interactive audio benchmark](https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/)
 
 </div>
 
@@ -61,74 +48,74 @@ In this five-song, two-stem test, **NeuralSound achieved the highest average res
 
 ## Play and download every audio result
 
-Each direct MP3 link opens in the browser for playback or download. The [interactive benchmark page](https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/) provides browser audio controls for the same input, vocal and instrumental examples.
+Each **Play / download MP3** link points directly to the public audio file stored in this GitHub repository. Clicking a link opens the browser’s audio player; the file can then be downloaded using the browser’s download or save control.
 
 ### Test 1: The Districts - Vermont
 
 **NeuralSound track average:** **14.36 dB**
 
-**Original input:** [▶ Play / download original MP3](https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/01-the-districts-vermont/input-preview.mp3)
+**Original input:** [▶ Play / download original MP3](https://raw.githubusercontent.com/neuralgpt407/ai-vocal-remover-benchmark-2026/main/assets/benchmark-audio/01-the-districts-vermont/input-preview.mp3)
 
 | System | Track avg. SI-SDR | Vocal metrics: SI-SDR / SI-SIR / SI-SAR | Vocal audio | Instrumental metrics: SI-SDR / SI-SIR / SI-SAR | Instrumental audio |
 |---|---:|---|---|---|---|
-| **NeuralSound** | **14.36 dB** | 13.01 / 29.76 / 13.11 dB | [▶ Vocals MP3](https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/01-the-districts-vermont/neuralsound-vocals-preview.mp3) | 15.70 / 28.84 / 15.92 dB | [▶ Instrumental MP3](https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/01-the-districts-vermont/neuralsound-instrumental-preview.mp3) |
-| Moises | 13.29 dB | 11.96 / 26.70 / 12.11 dB | [▶ Vocals MP3](https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/01-the-districts-vermont/moises-vocals-preview.mp3) | 14.61 / 27.50 / 14.85 dB | [▶ Instrumental MP3](https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/01-the-districts-vermont/moises-instrumental-preview.mp3) |
-| Fadr | 11.78 dB | 10.40 / 23.50 / 10.64 dB | [▶ Vocals MP3](https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/01-the-districts-vermont/fadr-vocals-preview.mp3) | 13.16 / 23.92 / 13.56 dB | [▶ Instrumental MP3](https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/01-the-districts-vermont/fadr-instrumental-preview.mp3) |
+| **NeuralSound** | **14.36 dB** | 13.01 / 29.76 / 13.11 dB | [▶ Vocals MP3](https://raw.githubusercontent.com/neuralgpt407/ai-vocal-remover-benchmark-2026/main/assets/benchmark-audio/01-the-districts-vermont/neuralsound-vocals-preview.mp3) | 15.70 / 28.84 / 15.92 dB | [▶ Instrumental MP3](https://raw.githubusercontent.com/neuralgpt407/ai-vocal-remover-benchmark-2026/main/assets/benchmark-audio/01-the-districts-vermont/neuralsound-instrumental-preview.mp3) |
+| Moises | 13.29 dB | 11.96 / 26.70 / 12.11 dB | [▶ Vocals MP3](https://raw.githubusercontent.com/neuralgpt407/ai-vocal-remover-benchmark-2026/main/assets/benchmark-audio/01-the-districts-vermont/moises-vocals-preview.mp3) | 14.61 / 27.50 / 14.85 dB | [▶ Instrumental MP3](https://raw.githubusercontent.com/neuralgpt407/ai-vocal-remover-benchmark-2026/main/assets/benchmark-audio/01-the-districts-vermont/moises-instrumental-preview.mp3) |
+| Fadr | 11.78 dB | 10.40 / 23.50 / 10.64 dB | [▶ Vocals MP3](https://raw.githubusercontent.com/neuralgpt407/ai-vocal-remover-benchmark-2026/main/assets/benchmark-audio/01-the-districts-vermont/fadr-vocals-preview.mp3) | 13.16 / 23.92 / 13.56 dB | [▶ Instrumental MP3](https://raw.githubusercontent.com/neuralgpt407/ai-vocal-remover-benchmark-2026/main/assets/benchmark-audio/01-the-districts-vermont/fadr-instrumental-preview.mp3) |
 
 ### Test 2: The Long Wait - Back Home To Blue
 
 **NeuralSound track average:** **18.93 dB**
 
-**Original input:** [▶ Play / download original MP3](https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/02-the-long-wait-back-home-to-blue/input-preview.mp3)
+**Original input:** [▶ Play / download original MP3](https://raw.githubusercontent.com/neuralgpt407/ai-vocal-remover-benchmark-2026/main/assets/benchmark-audio/02-the-long-wait-back-home-to-blue/input-preview.mp3)
 
 | System | Track avg. SI-SDR | Vocal metrics: SI-SDR / SI-SIR / SI-SAR | Vocal audio | Instrumental metrics: SI-SDR / SI-SIR / SI-SAR | Instrumental audio |
 |---|---:|---|---|---|---|
-| **NeuralSound** | **18.93 dB** | 15.65 / 40.05 / 15.67 dB | [▶ Vocals MP3](https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/02-the-long-wait-back-home-to-blue/neuralsound-vocals-preview.mp3) | 22.21 / 38.63 / 22.31 dB | [▶ Instrumental MP3](https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/02-the-long-wait-back-home-to-blue/neuralsound-instrumental-preview.mp3) |
-| Moises | 16.81 dB | 13.53 / 34.98 / 13.57 dB | [▶ Vocals MP3](https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/02-the-long-wait-back-home-to-blue/moises-vocals-preview.mp3) | 20.09 / 34.67 / 20.24 dB | [▶ Instrumental MP3](https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/02-the-long-wait-back-home-to-blue/moises-instrumental-preview.mp3) |
-| Fadr | 14.27 dB | 10.94 / 27.53 / 11.04 dB | [▶ Vocals MP3](https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/02-the-long-wait-back-home-to-blue/fadr-vocals-preview.mp3) | 17.60 / 29.57 / 17.89 dB | [▶ Instrumental MP3](https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/02-the-long-wait-back-home-to-blue/fadr-instrumental-preview.mp3) |
+| **NeuralSound** | **18.93 dB** | 15.65 / 40.05 / 15.67 dB | [▶ Vocals MP3](https://raw.githubusercontent.com/neuralgpt407/ai-vocal-remover-benchmark-2026/main/assets/benchmark-audio/02-the-long-wait-back-home-to-blue/neuralsound-vocals-preview.mp3) | 22.21 / 38.63 / 22.31 dB | [▶ Instrumental MP3](https://raw.githubusercontent.com/neuralgpt407/ai-vocal-remover-benchmark-2026/main/assets/benchmark-audio/02-the-long-wait-back-home-to-blue/neuralsound-instrumental-preview.mp3) |
+| Moises | 16.81 dB | 13.53 / 34.98 / 13.57 dB | [▶ Vocals MP3](https://raw.githubusercontent.com/neuralgpt407/ai-vocal-remover-benchmark-2026/main/assets/benchmark-audio/02-the-long-wait-back-home-to-blue/moises-vocals-preview.mp3) | 20.09 / 34.67 / 20.24 dB | [▶ Instrumental MP3](https://raw.githubusercontent.com/neuralgpt407/ai-vocal-remover-benchmark-2026/main/assets/benchmark-audio/02-the-long-wait-back-home-to-blue/moises-instrumental-preview.mp3) |
+| Fadr | 14.27 dB | 10.94 / 27.53 / 11.04 dB | [▶ Vocals MP3](https://raw.githubusercontent.com/neuralgpt407/ai-vocal-remover-benchmark-2026/main/assets/benchmark-audio/02-the-long-wait-back-home-to-blue/fadr-vocals-preview.mp3) | 17.60 / 29.57 / 17.89 dB | [▶ Instrumental MP3](https://raw.githubusercontent.com/neuralgpt407/ai-vocal-remover-benchmark-2026/main/assets/benchmark-audio/02-the-long-wait-back-home-to-blue/fadr-instrumental-preview.mp3) |
 
 ### Test 3: The Scarlet Brand - Les Fleurs Du Mal
 
 **NeuralSound track average:** **13.51 dB**
 
-**Original input:** [▶ Play / download original MP3](https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/03-the-scarlet-brand-les-fleurs-du-mal/input-preview.mp3)
+**Original input:** [▶ Play / download original MP3](https://raw.githubusercontent.com/neuralgpt407/ai-vocal-remover-benchmark-2026/main/assets/benchmark-audio/03-the-scarlet-brand-les-fleurs-du-mal/input-preview.mp3)
 
 | System | Track avg. SI-SDR | Vocal metrics: SI-SDR / SI-SIR / SI-SAR | Vocal audio | Instrumental metrics: SI-SDR / SI-SIR / SI-SAR | Instrumental audio |
 |---|---:|---|---|---|---|
-| **NeuralSound** | **13.51 dB** | 10.59 / 30.15 / 10.65 dB | [▶ Vocals MP3](https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/03-the-scarlet-brand-les-fleurs-du-mal/neuralsound-vocals-preview.mp3) | 16.43 / 28.65 / 16.70 dB | [▶ Instrumental MP3](https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/03-the-scarlet-brand-les-fleurs-du-mal/neuralsound-instrumental-preview.mp3) |
-| Moises | 12.63 dB | 9.99 / 28.51 / 10.05 dB | [▶ Vocals MP3](https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/03-the-scarlet-brand-les-fleurs-du-mal/moises-vocals-preview.mp3) | 15.28 / 26.86 / 15.60 dB | [▶ Instrumental MP3](https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/03-the-scarlet-brand-les-fleurs-du-mal/moises-instrumental-preview.mp3) |
-| Fadr | 11.78 dB | 8.85 / 24.85 / 8.98 dB | [▶ Vocals MP3](https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/03-the-scarlet-brand-les-fleurs-du-mal/fadr-vocals-preview.mp3) | 14.71 / 24.12 / 15.26 dB | [▶ Instrumental MP3](https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/03-the-scarlet-brand-les-fleurs-du-mal/fadr-instrumental-preview.mp3) |
+| **NeuralSound** | **13.51 dB** | 10.59 / 30.15 / 10.65 dB | [▶ Vocals MP3](https://raw.githubusercontent.com/neuralgpt407/ai-vocal-remover-benchmark-2026/main/assets/benchmark-audio/03-the-scarlet-brand-les-fleurs-du-mal/neuralsound-vocals-preview.mp3) | 16.43 / 28.65 / 16.70 dB | [▶ Instrumental MP3](https://raw.githubusercontent.com/neuralgpt407/ai-vocal-remover-benchmark-2026/main/assets/benchmark-audio/03-the-scarlet-brand-les-fleurs-du-mal/neuralsound-instrumental-preview.mp3) |
+| Moises | 12.63 dB | 9.99 / 28.51 / 10.05 dB | [▶ Vocals MP3](https://raw.githubusercontent.com/neuralgpt407/ai-vocal-remover-benchmark-2026/main/assets/benchmark-audio/03-the-scarlet-brand-les-fleurs-du-mal/moises-vocals-preview.mp3) | 15.28 / 26.86 / 15.60 dB | [▶ Instrumental MP3](https://raw.githubusercontent.com/neuralgpt407/ai-vocal-remover-benchmark-2026/main/assets/benchmark-audio/03-the-scarlet-brand-les-fleurs-du-mal/moises-instrumental-preview.mp3) |
+| Fadr | 11.78 dB | 8.85 / 24.85 / 8.98 dB | [▶ Vocals MP3](https://raw.githubusercontent.com/neuralgpt407/ai-vocal-remover-benchmark-2026/main/assets/benchmark-audio/03-the-scarlet-brand-les-fleurs-du-mal/fadr-vocals-preview.mp3) | 14.71 / 24.12 / 15.26 dB | [▶ Instrumental MP3](https://raw.githubusercontent.com/neuralgpt407/ai-vocal-remover-benchmark-2026/main/assets/benchmark-audio/03-the-scarlet-brand-les-fleurs-du-mal/fadr-instrumental-preview.mp3) |
 
 ### Test 4: The So So Glos - Emergency
 
 **NeuralSound track average:** **12.31 dB**
 
-**Original input:** [▶ Play / download original MP3](https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/04-the-so-so-glos-emergency/input-preview.mp3)
+**Original input:** [▶ Play / download original MP3](https://raw.githubusercontent.com/neuralgpt407/ai-vocal-remover-benchmark-2026/main/assets/benchmark-audio/04-the-so-so-glos-emergency/input-preview.mp3)
 
 | System | Track avg. SI-SDR | Vocal metrics: SI-SDR / SI-SIR / SI-SAR | Vocal audio | Instrumental metrics: SI-SDR / SI-SIR / SI-SAR | Instrumental audio |
 |---|---:|---|---|---|---|
-| **NeuralSound** | **12.31 dB** | 9.32 / 26.86 / 9.41 dB | [▶ Vocals MP3](https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/04-the-so-so-glos-emergency/neuralsound-vocals-preview.mp3) | 15.30 / 25.88 / 15.71 dB | [▶ Instrumental MP3](https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/04-the-so-so-glos-emergency/neuralsound-instrumental-preview.mp3) |
-| Moises | 11.52 dB | 8.53 / 24.30 / 8.66 dB | [▶ Vocals MP3](https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/04-the-so-so-glos-emergency/moises-vocals-preview.mp3) | 14.52 / 24.66 / 14.97 dB | [▶ Instrumental MP3](https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/04-the-so-so-glos-emergency/moises-instrumental-preview.mp3) |
-| Fadr | 10.13 dB | 7.05 / 20.79 / 7.28 dB | [▶ Vocals MP3](https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/04-the-so-so-glos-emergency/fadr-vocals-preview.mp3) | 13.22 / 21.33 / 13.98 dB | [▶ Instrumental MP3](https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/04-the-so-so-glos-emergency/fadr-instrumental-preview.mp3) |
+| **NeuralSound** | **12.31 dB** | 9.32 / 26.86 / 9.41 dB | [▶ Vocals MP3](https://raw.githubusercontent.com/neuralgpt407/ai-vocal-remover-benchmark-2026/main/assets/benchmark-audio/04-the-so-so-glos-emergency/neuralsound-vocals-preview.mp3) | 15.30 / 25.88 / 15.71 dB | [▶ Instrumental MP3](https://raw.githubusercontent.com/neuralgpt407/ai-vocal-remover-benchmark-2026/main/assets/benchmark-audio/04-the-so-so-glos-emergency/neuralsound-instrumental-preview.mp3) |
+| Moises | 11.52 dB | 8.53 / 24.30 / 8.66 dB | [▶ Vocals MP3](https://raw.githubusercontent.com/neuralgpt407/ai-vocal-remover-benchmark-2026/main/assets/benchmark-audio/04-the-so-so-glos-emergency/moises-vocals-preview.mp3) | 14.52 / 24.66 / 14.97 dB | [▶ Instrumental MP3](https://raw.githubusercontent.com/neuralgpt407/ai-vocal-remover-benchmark-2026/main/assets/benchmark-audio/04-the-so-so-glos-emergency/moises-instrumental-preview.mp3) |
+| Fadr | 10.13 dB | 7.05 / 20.79 / 7.28 dB | [▶ Vocals MP3](https://raw.githubusercontent.com/neuralgpt407/ai-vocal-remover-benchmark-2026/main/assets/benchmark-audio/04-the-so-so-glos-emergency/fadr-vocals-preview.mp3) | 13.22 / 21.33 / 13.98 dB | [▶ Instrumental MP3](https://raw.githubusercontent.com/neuralgpt407/ai-vocal-remover-benchmark-2026/main/assets/benchmark-audio/04-the-so-so-glos-emergency/fadr-instrumental-preview.mp3) |
 
 ### Test 5: The Wrong'Uns - Rothko
 
 **NeuralSound track average:** **19.88 dB**
 
-**Original input:** [▶ Play / download original MP3](https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/05-the-wronguns-rothko/input-preview.mp3)
+**Original input:** [▶ Play / download original MP3](https://raw.githubusercontent.com/neuralgpt407/ai-vocal-remover-benchmark-2026/main/assets/benchmark-audio/05-the-wronguns-rothko/input-preview.mp3)
 
 | System | Track avg. SI-SDR | Vocal metrics: SI-SDR / SI-SIR / SI-SAR | Vocal audio | Instrumental metrics: SI-SDR / SI-SIR / SI-SAR | Instrumental audio |
 |---|---:|---|---|---|---|
-| **NeuralSound** | **19.88 dB** | 17.74 / 41.21 / 17.76 dB | [▶ Vocals MP3](https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/05-the-wronguns-rothko/neuralsound-vocals-preview.mp3) | 22.02 / 43.00 / 22.05 dB | [▶ Instrumental MP3](https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/05-the-wronguns-rothko/neuralsound-instrumental-preview.mp3) |
-| Moises | 18.11 dB | 15.99 / 36.98 / 16.02 dB | [▶ Vocals MP3](https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/05-the-wronguns-rothko/moises-vocals-preview.mp3) | 20.22 / 37.31 / 20.31 dB | [▶ Instrumental MP3](https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/05-the-wronguns-rothko/moises-instrumental-preview.mp3) |
-| Fadr | 14.97 dB | 12.87 / 29.20 / 12.98 dB | [▶ Vocals MP3](https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/05-the-wronguns-rothko/fadr-vocals-preview.mp3) | 17.08 / 30.71 / 17.28 dB | [▶ Instrumental MP3](https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/assets/benchmark-audio/05-the-wronguns-rothko/fadr-instrumental-preview.mp3) |
+| **NeuralSound** | **19.88 dB** | 17.74 / 41.21 / 17.76 dB | [▶ Vocals MP3](https://raw.githubusercontent.com/neuralgpt407/ai-vocal-remover-benchmark-2026/main/assets/benchmark-audio/05-the-wronguns-rothko/neuralsound-vocals-preview.mp3) | 22.02 / 43.00 / 22.05 dB | [▶ Instrumental MP3](https://raw.githubusercontent.com/neuralgpt407/ai-vocal-remover-benchmark-2026/main/assets/benchmark-audio/05-the-wronguns-rothko/neuralsound-instrumental-preview.mp3) |
+| Moises | 18.11 dB | 15.99 / 36.98 / 16.02 dB | [▶ Vocals MP3](https://raw.githubusercontent.com/neuralgpt407/ai-vocal-remover-benchmark-2026/main/assets/benchmark-audio/05-the-wronguns-rothko/moises-vocals-preview.mp3) | 20.22 / 37.31 / 20.31 dB | [▶ Instrumental MP3](https://raw.githubusercontent.com/neuralgpt407/ai-vocal-remover-benchmark-2026/main/assets/benchmark-audio/05-the-wronguns-rothko/moises-instrumental-preview.mp3) |
+| Fadr | 14.97 dB | 12.87 / 29.20 / 12.98 dB | [▶ Vocals MP3](https://raw.githubusercontent.com/neuralgpt407/ai-vocal-remover-benchmark-2026/main/assets/benchmark-audio/05-the-wronguns-rothko/fadr-vocals-preview.mp3) | 17.08 / 30.71 / 17.28 dB | [▶ Instrumental MP3](https://raw.githubusercontent.com/neuralgpt407/ai-vocal-remover-benchmark-2026/main/assets/benchmark-audio/05-the-wronguns-rothko/fadr-instrumental-preview.mp3) |
 
 ## Download the benchmark data
 
 - [Overall benchmark summary CSV](assets/data/ai-vocal-remover-benchmark-2026-summary.csv)
 - [Complete per-track results CSV](assets/data/ai-vocal-remover-benchmark-2026-per-track.csv)
 - [Audio URL manifest CSV](assets/data/audio-manifest.csv)
-- [Open the interactive benchmark on NeuralSound](https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/)
+- [Open the benchmark repository](https://github.com/neuralgpt407/ai-vocal-remover-benchmark-2026)
 
 ## Official NeuralSound links
 
@@ -145,7 +132,7 @@ Each direct MP3 link opens in the browser for playback or download. The [interac
 
 This repository includes [`CITATION.cff`](CITATION.cff), allowing GitHub to display a **Cite this repository** action.
 
-> Neural Sound LLC. (2026). *NeuralSound, Moises and Fadr Vocal Separation Benchmark 2026* [Data set]. https://neuralsound.github.io/ai-vocal-remover-benchmark-2026/
+> Neural Sound LLC. (2026). *NeuralSound, Moises and Fadr Vocal Separation Benchmark 2026* [Data set]. https://github.com/neuralgpt407/ai-vocal-remover-benchmark-2026
 
 ## Reference links
 
