@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this benchmark or its data, please cite it as below."
+title: "NeuralSound, Moises and Fadr Vocal Separation Benchmark 2026"
+type: dataset
+authors:
+  - name: "Neural Sound LLC"
+version: "1.0.0"
+date-released: 2026-07-31
+url: "https://neuralsound.org/compare/ai-vocal-remover-2026"
+keywords:
+  - AI vocal remover
+  - music source separation
+  - stem separation
+  - acapella extraction
+  - SI-SDR
+  - MUSDB18
